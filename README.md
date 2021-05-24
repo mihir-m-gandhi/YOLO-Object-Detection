@@ -17,8 +17,8 @@
 </p>
 <br>
 <p align="center">
-    <img height=300px src="./images/test2.jpg">
-    <img height=300px src="./images/output2.jpg">
+    <img height=250px src="./images/test2.jpg">
+    <img height=250px src="./images/output2.jpg">
 </p>
 
 ------------------------------------------
