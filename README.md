@@ -15,10 +15,10 @@
     <img height=300px src="./images/test1.jpg">
     <img height=300px src="./images/output1.jpg">
 </p>
-
+<br>
 <p align="center">
-    <img src="./images/test2.jpg">
-    <img src="./images/output2.jpg">
+    <img height=300px src="./images/test2.jpg">
+    <img height=300px src="./images/output2.jpg">
 </p>
 
 ------------------------------------------
