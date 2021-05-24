@@ -9,7 +9,7 @@
 -----------------------------------------
 ### Output
 
-<h3> [Google Colab Code] (https://colab.research.google.com/drive/1EDJG3GIM8i-l_7-Y2g_YvR1nYmAn35sb?usp=sharing) </h3>
+**[Google Colab Code](https://colab.research.google.com/drive/1EDJG3GIM8i-l_7-Y2g_YvR1nYmAn35sb?usp=sharing)
 
 <p align="center">
     <img src="./images/test1.jpg">
