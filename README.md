@@ -12,8 +12,8 @@
 [**Google Colab Code**](https://colab.research.google.com/drive/1EDJG3GIM8i-l_7-Y2g_YvR1nYmAn35sb?usp=sharing)
 
 <p align="center">
-    <img src="./images/test1.jpg">
-    <img src="./images/output1.jpg">
+    <img height=400px src="./images/test1.jpg">
+    <img height=400px src="./images/output1.jpg">
 </p>
 
 <p align="center">
