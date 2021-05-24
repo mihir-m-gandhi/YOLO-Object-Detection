@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<h4>This application can recognize the sign language alphabets and help people who do not understand sign language to communicate with the speech and hearing impaired.</h4>
+<h4>You Only Look Once (YOLO) is an object detection network. It localizes and classifies an object. It does both these tasks in a single step. Darknet is an open source neural network framework written in C and CUDA that can used for Object Detection using YOLO. </h4>
  
 </div>
 
